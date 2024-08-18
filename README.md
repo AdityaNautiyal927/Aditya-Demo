@@ -1,2 +1,3 @@
 # Aditya-Demo
-My First Repository
+My First git Repository
+Author-Aditya Nautiyal
